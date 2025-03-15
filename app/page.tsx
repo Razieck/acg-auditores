@@ -109,7 +109,7 @@ export default function Home() {
         </motion.div>
       </section>
 
-      <div className="relative z-10">
+      <div className="relative z-10 mt-20"> 
         <Services />
         <Newsletter />
         <AboutUs />
