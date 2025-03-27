@@ -36,20 +36,26 @@ Editar
 
 📌 Instalación y Uso
 Si deseas probar el proyecto localmente, sigue estos pasos:
+
 1️⃣ Clona el repositorio:
 
 bash
 git clone https://github.com/Razieck/acg-auditores.git
 cd acg-auditores
+
+
 2️⃣ Instala las dependencias:
 
 bash
 npm install
+
+
 3️⃣ Ejecuta el entorno de desarrollo:
 
 bash
 npm run dev
 El sitio estará disponible en http://localhost:3000/
+
 
 💡 Autor
 Desarrollado por Pablo Muñoz
