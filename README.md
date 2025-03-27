@@ -1,6 +1,7 @@
 ACG Auditores - Plataforma Web
 
 🚀 Características Principales
+
 ✅ Desarrollo con Next.js y TypeScript
 ✅ Estilizado con Tailwind CSS
 ✅ Arquitectura modular y optimizada
@@ -8,6 +9,7 @@ ACG Auditores - Plataforma Web
 
 
 🛠 Tecnologías Usadas
+
 Next.js - Framework de React para aplicaciones web
 
 TypeScript - Mejora la mantenibilidad del código
@@ -23,8 +25,8 @@ PostCSS - Procesamiento de estilos optimizado
 
 📂 Estructura del Proyecto
 bash
-Copiar
-Editar
+
+
 /public        → Archivos estáticos e imágenes  
 /components   → Componentes reutilizables  
 /pages        → Páginas principales del sitio  
