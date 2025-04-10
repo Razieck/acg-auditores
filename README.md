@@ -1,63 +1,82 @@
-ACG Auditores - Plataforma Web
+Landing page profesional para ACG Auditores Consultores, una empresa especializada en auditoría y consultoría financiera. Este proyecto demuestra habilidades en desarrollo web moderno, diseño responsivo y animaciones fluidas.
 
-🚀 Características Principales
+## 🚀 Características Principales
 
-✅ Desarrollo con Next.js y TypeScript
-✅ Estilizado con Tailwind CSS
-✅ Arquitectura modular y optimizada
-✅ UI/UX enfocado en la usabilidad y claridad
+- **Diseño Moderno**: Interfaz limpia y profesional con gradientes sutiles y efectos visuales
+- **Totalmente Responsivo**: Se adapta perfectamente a todos los dispositivos
+- **Animaciones Fluidas**: Implementadas con Framer Motion para una experiencia de usuario envolvente
+- **Optimización SEO**: Estructura semántica y meta tags optimizados
+- **Accesibilidad**: Navegación intuitiva y elementos interactivos accesibles
+- **Rendimiento**: Optimizado para carga rápida y experiencia fluida
 
+## 🛠️ Tecnologías Utilizadas
 
-🛠 Tecnologías Usadas
+- **Next.js 14**: Framework React para renderizado del lado del servidor
+- **Tailwind CSS**: Framework CSS para estilos modernos y responsivos
+- **Framer Motion**: Biblioteca para animaciones fluidas y transiciones
+- **Font Awesome**: Iconos profesionales para la interfaz
+- **TypeScript**: Tipado estático para mayor robustez del código
 
-Next.js - Framework de React para aplicaciones web
+## 🎨 Estructura del Proyecto
 
-TypeScript - Mejora la mantenibilidad del código
+```
+├── app/
+│   ├── components/     # Componentes reutilizables
+│   │   ├── Navbar.tsx
+│   │   ├── Services.tsx
+│   │   ├── AboutUs.tsx
+│   │   ├── Contact.tsx
+│   │   ├── Newsletter.tsx
+│   │   └── WhatsAppButton.tsx
+│   ├── page.tsx        # Página principal
+│   └── globals.css     # Estilos globales
+├── public/             # Recursos estáticos
+└── styles/             # Estilos adicionales
+```
 
-Tailwind CSS - Framework de estilos moderno y eficiente
+## 🚀 Instalación y Uso
 
-PostCSS - Procesamiento de estilos optimizado
+1. Clonar el repositorio:
+```bash
+git clone https://github.com/tu-usuario/acg-auditores.git
+```
 
-
-🌐 Demo en Vivo
-🔗 https://www.acgauditoreschilespa.cl/
-
-
-📂 Estructura del Proyecto
-bash
-
-
-/public        → Archivos estáticos e imágenes  
-/components   → Componentes reutilizables  
-/pages        → Páginas principales del sitio  
-/styles       → Archivos de estilos (Tailwind)  
-
-
-
-
-
-📌 Instalación y Uso
-Si deseas probar el proyecto localmente, sigue estos pasos:
-
-1️⃣ Clona el repositorio:
-
-bash
-git clone https://github.com/Razieck/acg-auditores.git
-cd acg-auditores
-
-
-2️⃣ Instala las dependencias:
-
-bash
+2. Instalar dependencias:
+```bash
 npm install
+```
 
-
-3️⃣ Ejecuta el entorno de desarrollo:
-
-bash
+3. Iniciar el servidor de desarrollo:
+```bash
 npm run dev
-El sitio estará disponible en http://localhost:3000/
+```
 
+4. Abrir [http://localhost:3000](http://localhost:3000) en tu navegador
 
-💡 Autor
-Desarrollado por Pablo Muñoz
+## 📱 Secciones Principales
+
+- **Hero Section**: Presentación impactante con logo y llamada a la acción
+- **Servicios**: Muestra los 4 servicios principales con iconos y descripciones
+- **Quienes Somos**: Información sobre la empresa y su trayectoria
+- **Contacto**: Múltiples formas de contacto incluyendo WhatsApp
+- **Newsletter**: Formulario de suscripción para mantener contacto con clientes
+
+## 🎯 Características Técnicas Destacadas
+
+- **Componentes Modulares**: Código organizado y reutilizable
+- **Animaciones Optimizadas**: Transiciones suaves sin afectar el rendimiento
+- **Diseño Responsivo**: Adaptación perfecta a todos los dispositivos
+- **Optimización SEO**: Estructura semántica y meta tags
+- **Accesibilidad**: Navegación intuitiva y elementos interactivos accesibles
+
+## 🤝 Contribuciones
+
+Las contribuciones son bienvenidas. Por favor, abre un issue primero para discutir qué te gustaría cambiar.
+
+## 📄 Licencia
+
+Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
+
+---
+
+Desarrollado con ❤️ por Pablo Muñoz 
